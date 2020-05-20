@@ -382,7 +382,7 @@ YOOo      OOO      oOOP
    `OOOOOI```IOOOOO'
     `OOOOI,,,IOOOO'
      `OOOOOOOOOOO'
-       `~OOOOO~'   BlackMafia
+       `~OOOOO~'   BlackVivek
 
 \033[1;95m«-----------------\033[1;91mBlackVivek\033[1;95m-----------------»"""
 logo12 = """
